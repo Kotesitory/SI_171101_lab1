@@ -1,0 +1,5 @@
+commit 52470e2c6aa5a3cbc5587cbec1045c18a101dcd1 (HEAD -> logs, origin/bugFix1, bugFix1)
+Author: unknown <Stefan.Kotevski@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:40:35 2019 +0200
+
+    Initial commit
